@@ -4,24 +4,11 @@
 
 ### Desenvolvedor em transição de carreira | Java • Spring Boot • Web Full Stack
 
-<p>
-  <a href="https://www.linkedin.com/in/nicolasedm/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Martins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nicolas.edm7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nicolas.edm7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://nmartins6.github.io/portifolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Online-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Nmartins6">
-    <img src="https://img.shields.io/badge/Open%20to%20Work-Backend%20%7C%20Full%20Stack-22C55E?style=for-the-badge" alt="Open to Work" />
-  </a>
-</p>
+**Backend Java | Spring Boot | APIs REST | Full Stack Web**
 
-<p>
-  Lajeado, RS - Brasil • Estudante de Engenharia de Software • Português nativo • Inglês avançado
-</p>
+[LinkedIn](https://www.linkedin.com/in/nicolasedm/) • [Portfólio](https://nmartins6.github.io/portifolio/) • [Email](mailto:nicolas.edm7@gmail.com) • [GitHub](https://github.com/Nmartins6)
+
+Lajeado, RS - Brasil • Estudante de Engenharia de Software • Português nativo • Inglês avançado • Open to Work
 
 </div>
 
@@ -48,50 +35,23 @@ Hoje aplico essa bagagem no desenvolvimento de sistemas: modelagem de domínio, 
 
 ### Principal
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
+`Java` `Spring Boot` `REST APIs` `SQL` `Angular` `React` `TypeScript`
 
 ### Também utilizo
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
+`Python` `JavaScript` `PostgreSQL` `MongoDB` `Flyway` `Docker` `Git` `GitHub`
 
 ### Ferramentas e práticas
 
-<p>
-  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
-  <img src="https://img.shields.io/badge/Mockito-111827?style=flat-square" alt="Mockito" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Scrum-2563EB?style=flat-square" alt="Scrum" />
-  <img src="https://img.shields.io/badge/Kanban-0F766E?style=flat-square" alt="Kanban" />
-  <img src="https://img.shields.io/badge/Agile-7C3AED?style=flat-square" alt="Agile" />
-</p>
+`JUnit 5` `Mockito` `Maven` `Scrum` `Kanban` `Agile`
 
-## GitHub em números
+## GitHub em foco
 
-<div align="center">
+Em vez de usar cards automáticos de estatísticas, priorizo projetos documentados, histórico de evolução e repositórios com contexto técnico claro. Isso evita widgets quebrados e mantém o perfil mais direto para recrutadores e avaliadores técnicos.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nmartins6&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nmartins6&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nmartins6&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
+- Perfil: [github.com/Nmartins6](https://github.com/Nmartins6)
+- Foco atual: Java, Spring Boot, APIs REST, Angular, React e TypeScript
+- Projetos principais: sistemas web, backend transacional, automação de processos e integrações com APIs
 
 ## Projetos em destaque
 
@@ -124,14 +84,7 @@ Minha trajetória combina tecnologia com experiência prática em ambientes indu
 
 ## Interesses
 
-<p>
-  <img src="https://img.shields.io/badge/Backend-111827?style=flat-square" alt="Backend" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Web-0F766E?style=flat-square" alt="Full Stack Web" />
-  <img src="https://img.shields.io/badge/Fintech-2563EB?style=flat-square" alt="Fintech" />
-  <img src="https://img.shields.io/badge/Automação%20de%20Processos-7C3AED?style=flat-square" alt="Automação de Processos" />
-  <img src="https://img.shields.io/badge/Sistemas%20Operacionais-374151?style=flat-square" alt="Sistemas Operacionais" />
-  <img src="https://img.shields.io/badge/IA%20Aplicada-9333EA?style=flat-square" alt="IA Aplicada" />
-</p>
+`Backend` `Full Stack Web` `Fintech` `Automação de Processos` `Sistemas Operacionais` `IA Aplicada`
 
 ## Um pouco além do código
 
@@ -163,10 +116,5 @@ Se fizer sentido conversar sobre uma vaga, projeto ou colaboração técnica, me
 ---
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Nmartins6/Nmartins6/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-<sub>Construindo a transição para tecnologia com consistência, projetos reais e aprendizado contínuo.</sub>
-
+  <sub>Construindo a transição para tecnologia com consistência, projetos reais e aprendizado contínuo.</sub>
 </div>
-
