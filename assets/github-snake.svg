@@ -1,0 +1,61 @@
+<svg width="900" height="140" viewBox="0 0 900 140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animação de contribuições do GitHub</title>
+  <desc id="desc">Animação visual para a seção final do perfil.</desc>
+  <rect width="900" height="140" rx="10" fill="#0D1117"/>
+  <rect x="1" y="1" width="898" height="138" rx="9" stroke="#30363D" stroke-width="2"/>
+  <g transform="translate(28 26)">
+    <g fill="#161B22">
+      <rect x="0" y="0" width="12" height="12" rx="2"/>
+      <rect x="20" y="0" width="12" height="12" rx="2"/>
+      <rect x="40" y="0" width="12" height="12" rx="2"/>
+      <rect x="60" y="0" width="12" height="12" rx="2"/>
+      <rect x="80" y="0" width="12" height="12" rx="2"/>
+      <rect x="100" y="0" width="12" height="12" rx="2"/>
+      <rect x="120" y="0" width="12" height="12" rx="2"/>
+      <rect x="140" y="0" width="12" height="12" rx="2"/>
+      <rect x="160" y="0" width="12" height="12" rx="2"/>
+      <rect x="180" y="0" width="12" height="12" rx="2"/>
+      <rect x="200" y="0" width="12" height="12" rx="2"/>
+      <rect x="220" y="0" width="12" height="12" rx="2"/>
+      <rect x="240" y="0" width="12" height="12" rx="2"/>
+      <rect x="260" y="0" width="12" height="12" rx="2"/>
+      <rect x="280" y="0" width="12" height="12" rx="2"/>
+      <rect x="300" y="0" width="12" height="12" rx="2"/>
+      <rect x="320" y="0" width="12" height="12" rx="2"/>
+      <rect x="340" y="0" width="12" height="12" rx="2"/>
+      <rect x="360" y="0" width="12" height="12" rx="2"/>
+      <rect x="380" y="0" width="12" height="12" rx="2"/>
+      <rect x="400" y="0" width="12" height="12" rx="2"/>
+      <rect x="420" y="0" width="12" height="12" rx="2"/>
+      <rect x="440" y="0" width="12" height="12" rx="2"/>
+      <rect x="460" y="0" width="12" height="12" rx="2"/>
+      <rect x="480" y="0" width="12" height="12" rx="2"/>
+      <rect x="500" y="0" width="12" height="12" rx="2"/>
+      <rect x="520" y="0" width="12" height="12" rx="2"/>
+      <rect x="540" y="0" width="12" height="12" rx="2"/>
+      <rect x="560" y="0" width="12" height="12" rx="2"/>
+      <rect x="580" y="0" width="12" height="12" rx="2"/>
+      <rect x="600" y="0" width="12" height="12" rx="2"/>
+      <rect x="620" y="0" width="12" height="12" rx="2"/>
+      <rect x="640" y="0" width="12" height="12" rx="2"/>
+      <rect x="660" y="0" width="12" height="12" rx="2"/>
+      <rect x="680" y="0" width="12" height="12" rx="2"/>
+      <rect x="700" y="0" width="12" height="12" rx="2"/>
+      <rect x="720" y="0" width="12" height="12" rx="2"/>
+      <rect x="740" y="0" width="12" height="12" rx="2"/>
+      <rect x="760" y="0" width="12" height="12" rx="2"/>
+      <rect x="780" y="0" width="12" height="12" rx="2"/>
+      <rect x="800" y="0" width="12" height="12" rx="2"/>
+      <rect x="820" y="0" width="12" height="12" rx="2"/>
+    </g>
+    <path d="M8 78 C88 18, 188 108, 286 54 S472 10, 596 74 S746 95, 838 38" stroke="#39D353" stroke-width="8" stroke-linecap="round" fill="none">
+      <animate attributeName="stroke-dasharray" values="18 820;160 680;18 820" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-dashoffset" values="0;-260;-520" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="838" cy="38" r="10" fill="#39D353">
+      <animate attributeName="cx" values="8;286;596;838;8" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="78;54;74;38;78" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="28" y="122" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="14">Evolução contínua, projetos reais e consistência no aprendizado.</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="720" height="90" viewBox="0 0 720 90" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Backend Java, Spring Boot, APIs REST e Full Stack Web</title>
+  <desc id="desc">Animação visual para o perfil de Nicolas Martins.</desc>
+  <rect width="720" height="90" rx="10" fill="#0D1117"/>
+  <rect x="1" y="1" width="718" height="88" rx="9" stroke="#30363D" stroke-width="2"/>
+  <g opacity="0.95">
+    <circle cx="48" cy="45" r="18" fill="#238636">
+      <animate attributeName="r" values="15;18;15" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="112" cy="45" r="10" fill="#58A6FF">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.8s" begin="0.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="160" cy="45" r="10" fill="#F78166">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.8s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="205" y="38" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Java • Spring Boot • APIs REST</text>
+  <text x="205" y="63" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="15">Construindo sistemas web com clareza, contexto de negócio e foco em entrega.</text>
+  <path d="M34 72 C130 18, 234 78, 340 34 S552 22, 686 58" stroke="#238636" stroke-width="2" stroke-linecap="round" opacity="0.45">
+    <animate attributeName="stroke-dasharray" values="1 28;28 1;1 28" dur="4s" repeatCount="indefinite"/>
+  </path>
+</svg>
