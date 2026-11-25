@@ -1,166 +1,93 @@
 <div align="center">
 
-# Nicolas Martins
+<img src="./assets/brand-banner.svg" alt="Nicolas Martins — Construir soluções reais. Produto, sistemas e tecnologia." width="100%" />
 
-### Desenvolvedor em transição de carreira | Java • Spring Boot • Web Full Stack
+<br />
 
-<p>
-  <a href="https://www.linkedin.com/in/nicolasedm/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Martins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nicolas.edm7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nicolas.edm7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://nmartins6.github.io/portifolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Online-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" />
-  </a>
-  <a href="https://github.com/Nmartins6">
-    <img src="https://img.shields.io/badge/Open%20to%20Work-Backend%20%7C%20Full%20Stack-22C55E?style=for-the-badge" alt="Open to Work" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E16A1B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasedm/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-262626?style=for-the-badge&logo=githubpages&logoColor=F5F3EE)](https://nmartins6.github.io/portifolio/)
+[![Contato](https://img.shields.io/badge/Contato-262626?style=for-the-badge&logo=gmail&logoColor=E16A1B)](mailto:nicolas.edm7@gmail.com)
 
-<img src="./assets/profile-animation.svg" alt="Backend Java, Spring Boot, APIs REST e Full Stack Web" width="100%" />
+**Analista de Produto · Engenharia de Software · Desenvolvimento de Sistemas**
 
-Lajeado, RS - Brasil • Estudante de Engenharia de Software • Português nativo • Inglês avançado • Open to Work
+Rio Grande do Sul, Brasil · Português nativo · Inglês avançado
 
 </div>
 
 ---
 
-## Visão geral
+## 01 / Sobre mim
 
-Sou Nicolas Martins, desenvolvedor em transição de carreira para tecnologia, com foco em **backend Java/Spring Boot** e desenvolvimento web com **React, Angular, TypeScript e SQL**.
+Minha trajetória começou na indústria, atuando como eletromecânico em manutenção industrial. Hoje trabalho com análise de produto e sistemas, conectando necessidades de negócio, requisitos e tecnologia.
 
-Antes de direcionar minha carreira para software, atuei na indústria como eletromecânico em ambientes de manutenção, operação e melhoria contínua. Essa vivência me deu uma base forte em análise de problemas, disciplina operacional, comunicação com equipes técnicas e tomada de decisão em contextos de responsabilidade.
+Estudo Engenharia de Software e desenvolvo projetos autorais para explorar soluções que vão da automação de processos à construção de aplicações web e integrações.
 
-Hoje aplico essa bagagem no desenvolvimento de sistemas: modelagem de domínio, APIs REST, persistência de dados, testes, versionamento com Git, interfaces web e boas práticas de arquitetura. Tenho cerca de **5 anos de prática entre projetos pessoais e acadêmicos**, além de **1 ano de experiência profissional/freelancer em desenvolvimento de software**.
+> Acredito que tecnologia tem valor quando resolve um problema real.
 
-> Busco uma oportunidade formal como desenvolvedor, especialmente em times que valorizam clareza técnica, consistência, aprendizado contínuo e entrega de valor.
+## 02 / Áreas de atuação
 
-## Sobre mim
+| Produto | Sistemas | Desenvolvimento |
+| :--- | :--- | :--- |
+| Análise de requisitos | Integrações e APIs | Backend Java e Spring Boot |
+| User stories e critérios de aceitação | Processos e automação | React, Angular e TypeScript |
+| Prototipação e homologação | Análise de regras de negócio | SQL, testes e versionamento |
 
-- Desenvolvo projetos autorais para consolidar conhecimento prático em backend, APIs e produtos web.
-- Tenho interesse especial por sistemas de negócio, automação de processos, fintech, operações e ferramentas que resolvem problemas reais.
-- Minha experiência na indústria me ajuda a enxergar software como parte de um processo maior: confiabilidade, usabilidade, rastreabilidade e impacto.
-- Gosto de escrever READMEs claros, organizar escopo, documentar decisões técnicas e construir projetos que possam ser avaliados por recrutadores e pessoas técnicas.
+## 03 / Tecnologias
 
-## Tech Stack
-
-### Principal
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-### Também utilizo
+**Backend e dados**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img alt="Java" src="https://img.shields.io/badge/Java-262626?style=flat-square&logo=openjdk&logoColor=E16A1B" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-262626?style=flat-square&logo=springboot&logoColor=E16A1B" />
+<img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-262626?style=flat-square" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-262626?style=flat-square" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-262626?style=flat-square&logo=postgresql&logoColor=E16A1B" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-262626?style=flat-square&logo=mongodb&logoColor=E16A1B" />
+<img alt="Flyway" src="https://img.shields.io/badge/Flyway-262626?style=flat-square&logo=flyway&logoColor=E16A1B" />
 </p>
 
-### Ferramentas e práticas
+**Frontend**
 
 <p>
-  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
-  <img src="https://img.shields.io/badge/Mockito-111827?style=flat-square" alt="Mockito" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Scrum-2563EB?style=flat-square" alt="Scrum" />
-  <img src="https://img.shields.io/badge/Kanban-0F766E?style=flat-square" alt="Kanban" />
-  <img src="https://img.shields.io/badge/Agile-7C3AED?style=flat-square" alt="Agile" />
+<img alt="React" src="https://img.shields.io/badge/React-262626?style=flat-square&logo=react&logoColor=E16A1B" />
+<img alt="Angular" src="https://img.shields.io/badge/Angular-262626?style=flat-square&logo=angular&logoColor=E16A1B" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-262626?style=flat-square&logo=typescript&logoColor=E16A1B" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-262626?style=flat-square&logo=javascript&logoColor=E16A1B" />
+<img alt="Astro" src="https://img.shields.io/badge/Astro-262626?style=flat-square&logo=astro&logoColor=E16A1B" />
 </p>
 
-## GitHub em números
-
-Priorizo projetos documentados, histórico de evolução e repositórios com contexto técnico claro. Evitei cards externos de streak, dias de código e gráfico diário de contribuições para manter o perfil limpo e sem widgets instáveis.
-
-- Perfil: [github.com/Nmartins6](https://github.com/Nmartins6)
-- Foco atual: Java, Spring Boot, APIs REST, Angular, React e TypeScript
-- Projetos principais: sistemas web, backend transacional, automação de processos e integrações com APIs
-
-## Projetos em destaque
-
-| Projeto | Stack | O que demonstra |
-| --- | --- | --- |
-| [JobTracker](https://github.com/Nmartins6/job-tracker) | Java 21, Spring Boot 3, Angular 19, JPA, Flyway, H2, Maven | Sistema para organizar candidaturas, etapas, feedbacks, requisitos de vaga e matching entre perfil e oportunidade. Mostra modelagem de domínio, API REST, autenticação básica e frontend integrado. |
-| [Card Transactions Service](https://github.com/Nmartins6/card-transactions-service) | Java 21, Spring Boot, PostgreSQL, MongoDB, Flyway, Angular, Docker, JUnit, Mockito | Simulação de autorização de transações de cartão com regras de aprovação/recusa, histórico e logs de rastreabilidade. Projeto forte para contexto financeiro, pagamentos e sistemas transacionais. |
-| [Gerenciador de Ordens Datasul](https://github.com/Nmartins6/ordens-datasul) | Java 21, Spring Boot, Apache POI, JUnit, Docker | Ferramenta web para transformar relatórios `.lst`/`.txt` do Datasul em planilhas Excel com filtros e abas por tipo de manutenção. Conecta software com um problema real de operação industrial. |
-| [MagicFridgeAI](https://github.com/Nmartins6/MagicFridgeAI) | Java 21, Spring Boot, WebFlux, JPA, Flyway, H2 | Gerador de receitas com IA, criado para praticar backend, integração com APIs externas e organização de uma aplicação Spring moderna. |
-| [Casa Nacoli Special Dates](https://github.com/Nmartins6/casa-nacoli-special-dates) | Astro, Web, Deploy Vercel | Projeto web publicado, com foco em experiência visual, presença digital e entrega de interface responsiva. [Acessar demo](https://casa-nacoli-special-dates.vercel.app). |
-
-## Diferenciais profissionais
-
-Minha trajetória combina tecnologia com experiência prática em ambientes industriais, o que fortalece algumas competências importantes para desenvolvimento de software:
-
-- **Raciocínio analítico:** acostumado a investigar causas, entender restrições e propor soluções aplicáveis.
-- **Mentalidade de melhoria contínua:** foco em reduzir retrabalho, organizar processos e evoluir entregas de forma incremental.
-- **Comunicação técnica:** experiência conversando com operação, manutenção e lideranças para alinhar problemas e prioridades.
-- **Disciplina e responsabilidade:** vivência em ambientes onde qualidade, segurança e confiabilidade fazem diferença.
-- **Visão de produto:** interesse em construir sistemas úteis, documentados e compreensíveis para quem usa e para quem mantém.
-
-## Atualmente estudando
-
-- Arquitetura de APIs REST com Java e Spring Boot
-- Testes automatizados com JUnit, Mockito e MockMvc
-- Persistência com JPA, SQL, PostgreSQL e Flyway
-- Fundamentos de microsserviços, mensageria e observabilidade
-- Angular, React e TypeScript para interfaces web mais completas
-- Boas práticas de Git, documentação técnica e organização de portfólio
-
-## Interesses
+**Ferramentas e práticas**
 
 <p>
-  <img src="https://img.shields.io/badge/Backend-111827?style=flat-square" alt="Backend" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Web-0F766E?style=flat-square" alt="Full Stack Web" />
-  <img src="https://img.shields.io/badge/Fintech-2563EB?style=flat-square" alt="Fintech" />
-  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20de%20Processos-7C3AED?style=flat-square" alt="Automação de Processos" />
-  <img src="https://img.shields.io/badge/Sistemas%20Operacionais-374151?style=flat-square" alt="Sistemas Operacionais" />
-  <img src="https://img.shields.io/badge/IA%20Aplicada-9333EA?style=flat-square" alt="IA Aplicada" />
+<img alt="Git" src="https://img.shields.io/badge/Git-262626?style=flat-square&logo=git&logoColor=E16A1B" />
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-262626?style=flat-square&logo=github&logoColor=E16A1B" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-262626?style=flat-square&logo=docker&logoColor=E16A1B" />
+<img alt="Maven" src="https://img.shields.io/badge/Maven-262626?style=flat-square&logo=apachemaven&logoColor=E16A1B" />
+<img alt="JUnit 5" src="https://img.shields.io/badge/JUnit%205-262626?style=flat-square&logo=junit5&logoColor=E16A1B" />
+<img alt="Mockito" src="https://img.shields.io/badge/Mockito-262626?style=flat-square" />
+<img alt="Python" src="https://img.shields.io/badge/Python-262626?style=flat-square&logo=python&logoColor=E16A1B" />
+<img alt="Scrum" src="https://img.shields.io/badge/Scrum-262626?style=flat-square" />
+<img alt="Kanban" src="https://img.shields.io/badge/Kanban-262626?style=flat-square" />
 </p>
 
-## Um pouco além do código
+## 04 / Projetos selecionados
 
-- Venho da indústria, então tenho facilidade para entender fluxos operacionais e transformar problemas reais em soluções práticas.
-- Gosto de projetos com regra de negócio clara, rastreabilidade e documentação bem escrita.
-- Estou construindo minha transição com consistência: estudo, projetos, portfólio, leitura técnica e melhoria contínua.
-- Acredito que bom software nasce da combinação entre código limpo, contexto de negócio e comunicação honesta.
+| Projeto | Proposta | Tecnologias |
+| :--- | :--- | :--- |
+| [JobTracker](https://github.com/Nmartins6/job-tracker) | Organização de candidaturas e acompanhamento de oportunidades. | Java, Spring Boot, Angular, JPA |
+| [Card Transactions Service](https://github.com/Nmartins6/card-transactions-service) | Simulação de autorização de transações e rastreabilidade. | Java, Spring Boot, PostgreSQL, MongoDB |
+| [Gerenciador de Ordens Datasul](https://github.com/Nmartins6/ordens-datasul) | Automação de relatórios industriais para planilhas Excel. | Java, Spring Boot, Apache POI |
+| [MagicFridgeAI](https://github.com/Nmartins6/MagicFridgeAI) | Geração de receitas com IA e integração de APIs. | Java, Spring Boot, WebFlux |
+| [Casa Nacoli Special Dates](https://github.com/Nmartins6/casa-nacoli-special-dates) | Experiência web responsiva. [Demo](https://casa-nacoli-special-dates.vercel.app) | Astro, Vercel |
 
-## Contato
+## 05 / Em evolução
+
+Arquitetura de software, inteligência artificial aplicada, integrações, produtos digitais, automação e desenvolvimento de sistemas.
 
 <div align="center">
 
-| Canal | Link |
-| --- | --- |
-| LinkedIn | [linkedin.com/in/nicolasedm](https://www.linkedin.com/in/nicolasedm/) |
-| Portfolio | [nmartins6.github.io/portifolio](https://nmartins6.github.io/portifolio/) |
-| Email | [nicolas.edm7@gmail.com](mailto:nicolas.edm7@gmail.com) |
-| GitHub | [github.com/Nmartins6](https://github.com/Nmartins6) |
-| Instagram | [@niicolasmartins](https://www.instagram.com/niicolasmartins/) |
+<img src="./assets/github-snake.svg" alt="Animação do histórico de contribuições" width="100%" />
 
-</div>
+<sub>PRODUTO / SISTEMAS / TECNOLOGIA — DA IDEIA À EXECUÇÃO</sub>
 
-## Para recrutadores
-
-Estou aberto a oportunidades como **Desenvolvedor Backend Java**, **Desenvolvedor Full Stack Junior/Pleno inicial** ou posições voltadas a **sistemas web, APIs e automação de processos**.
-
-Se fizer sentido conversar sobre uma vaga, projeto ou colaboração técnica, meu melhor canal é o [LinkedIn](https://www.linkedin.com/in/nicolasedm/) ou o email [nicolas.edm7@gmail.com](mailto:nicolas.edm7@gmail.com).
-
----
-
-<div align="center">
-  <img src="./assets/github-snake.svg" alt="Animação de contribuições do GitHub" width="100%" />
-  <br />
-  <sub>Construindo a transição para tecnologia com consistência, projetos reais e aprendizado contínuo.</sub>
 </div>
