@@ -4,9 +4,9 @@
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E16A1B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasedm/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-262626?style=for-the-badge&logo=githubpages&logoColor=F5F3EE)](https://nmartins6.github.io/portifolio/)
-[![Contato](https://img.shields.io/badge/Contato-262626?style=for-the-badge&logo=gmail&logoColor=E16A1B)](mailto:nicolas.edm7@gmail.com)
+<a href="https://www.linkedin.com/in/nicolasedm/"><img src="https://img.shields.io/badge/LinkedIn-E16A1B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="34" /></a>
+<a href="https://nmartins6.github.io/portifolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-262626?style=for-the-badge&logo=githubpages&logoColor=F5F3EE" alt="Portfólio" height="34" /></a>
+<a href="mailto:nicolas.edm7@gmail.com"><img src="https://img.shields.io/badge/Contato-262626?style=for-the-badge&logo=gmail&logoColor=E16A1B" alt="Contato" height="34" /></a>
 
 **Analista de Produto · Engenharia de Software · Desenvolvimento de Sistemas**
 
@@ -37,37 +37,37 @@ Estudo Engenharia de Software e desenvolvo projetos autorais para explorar solu�
 **Backend e dados**
 
 <p>
-<img alt="Java" src="https://img.shields.io/badge/Java-262626?style=flat-square&logo=openjdk&logoColor=E16A1B" />
-<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-262626?style=flat-square&logo=springboot&logoColor=E16A1B" />
-<img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-262626?style=flat-square" />
-<img alt="SQL" src="https://img.shields.io/badge/SQL-262626?style=flat-square" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-262626?style=flat-square&logo=postgresql&logoColor=E16A1B" />
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-262626?style=flat-square&logo=mongodb&logoColor=E16A1B" />
-<img alt="Flyway" src="https://img.shields.io/badge/Flyway-262626?style=flat-square&logo=flyway&logoColor=E16A1B" />
+<img alt="Java" src="https://img.shields.io/badge/Java-262626?style=flat-square&logo=openjdk&logoColor=E16A1B" height="25" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-262626?style=flat-square&logo=springboot&logoColor=E16A1B" height="25" />
+<img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-262626?style=flat-square" height="25" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-262626?style=flat-square" height="25" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-262626?style=flat-square&logo=postgresql&logoColor=E16A1B" height="25" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-262626?style=flat-square&logo=mongodb&logoColor=E16A1B" height="25" />
+<img alt="Flyway" src="https://img.shields.io/badge/Flyway-262626?style=flat-square&logo=flyway&logoColor=E16A1B" height="25" />
 </p>
 
 **Frontend**
 
 <p>
-<img alt="React" src="https://img.shields.io/badge/React-262626?style=flat-square&logo=react&logoColor=E16A1B" />
-<img alt="Angular" src="https://img.shields.io/badge/Angular-262626?style=flat-square&logo=angular&logoColor=E16A1B" />
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-262626?style=flat-square&logo=typescript&logoColor=E16A1B" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-262626?style=flat-square&logo=javascript&logoColor=E16A1B" />
-<img alt="Astro" src="https://img.shields.io/badge/Astro-262626?style=flat-square&logo=astro&logoColor=E16A1B" />
+<img alt="React" src="https://img.shields.io/badge/React-262626?style=flat-square&logo=react&logoColor=E16A1B" height="25" />
+<img alt="Angular" src="https://img.shields.io/badge/Angular-262626?style=flat-square&logo=angular&logoColor=E16A1B" height="25" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-262626?style=flat-square&logo=typescript&logoColor=E16A1B" height="25" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-262626?style=flat-square&logo=javascript&logoColor=E16A1B" height="25" />
+<img alt="Astro" src="https://img.shields.io/badge/Astro-262626?style=flat-square&logo=astro&logoColor=E16A1B" height="25" />
 </p>
 
 **Ferramentas e práticas**
 
 <p>
-<img alt="Git" src="https://img.shields.io/badge/Git-262626?style=flat-square&logo=git&logoColor=E16A1B" />
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-262626?style=flat-square&logo=github&logoColor=E16A1B" />
-<img alt="Docker" src="https://img.shields.io/badge/Docker-262626?style=flat-square&logo=docker&logoColor=E16A1B" />
-<img alt="Maven" src="https://img.shields.io/badge/Maven-262626?style=flat-square&logo=apachemaven&logoColor=E16A1B" />
-<img alt="JUnit 5" src="https://img.shields.io/badge/JUnit%205-262626?style=flat-square&logo=junit5&logoColor=E16A1B" />
-<img alt="Mockito" src="https://img.shields.io/badge/Mockito-262626?style=flat-square" />
-<img alt="Python" src="https://img.shields.io/badge/Python-262626?style=flat-square&logo=python&logoColor=E16A1B" />
-<img alt="Scrum" src="https://img.shields.io/badge/Scrum-262626?style=flat-square" />
-<img alt="Kanban" src="https://img.shields.io/badge/Kanban-262626?style=flat-square" />
+<img alt="Git" src="https://img.shields.io/badge/Git-262626?style=flat-square&logo=git&logoColor=E16A1B" height="25" />
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-262626?style=flat-square&logo=github&logoColor=E16A1B" height="25" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-262626?style=flat-square&logo=docker&logoColor=E16A1B" height="25" />
+<img alt="Maven" src="https://img.shields.io/badge/Maven-262626?style=flat-square&logo=apachemaven&logoColor=E16A1B" height="25" />
+<img alt="JUnit 5" src="https://img.shields.io/badge/JUnit%205-262626?style=flat-square&logo=junit5&logoColor=E16A1B" height="25" />
+<img alt="Mockito" src="https://img.shields.io/badge/Mockito-262626?style=flat-square" height="25" />
+<img alt="Python" src="https://img.shields.io/badge/Python-262626?style=flat-square&logo=python&logoColor=E16A1B" height="25" />
+<img alt="Scrum" src="https://img.shields.io/badge/Scrum-262626?style=flat-square" height="25" />
+<img alt="Kanban" src="https://img.shields.io/badge/Kanban-262626?style=flat-square" height="25" />
 </p>
 
 ## 04 / Projetos selecionados
