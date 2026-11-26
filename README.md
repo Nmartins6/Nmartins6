@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/brand-banner.svg" alt="Nicolas Martins — Construir soluções reais. Produto, sistemas e tecnologia." width="100%" />
+<img src="./assets/brand-banner.png" alt="Nicolas Martins — Construindo soluções reais. Produto, sistemas e tecnologia." width="100%" />
 
 <br />
 
